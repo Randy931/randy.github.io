@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-<style type="text/css"> 
-<!-- 
-  @import url(css/main.css); 
---> 
-</style>
   </head>
 <body style="background-color:red;">
 <h1>This is my first page</h1>
