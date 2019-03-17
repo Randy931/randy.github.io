@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
-<STYLE TYPE="text/css"> 
+  <head>
+<style type="text/css"> 
 <!-- 
   @import url(css/main.css); 
 --> 
-</STYLE>
+</style>
+  </head>
 <body style="background-color:red;">
 <h1>This is my first page</h1>
 <p>Noting in here just for test</p>
