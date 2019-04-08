@@ -3,10 +3,8 @@
   <head>
     <script>
       $(document).ready(function() {
-    
-$("#a").addClass("animated fadeOut")
-  });
-      
+        $("#a").addClass("animated fadeOut")
+      });
     </script>
   </head>
   
