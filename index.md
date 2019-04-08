@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-  </head>
-  <script>
+    <script>
   $("#a").addClass("animated fadeOut")
   </script>
+  </head>
+  
  <body style="background-color:red;">
   
 <h1 id="a" >This is my first page</h1>
