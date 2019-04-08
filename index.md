@@ -2,8 +2,8 @@
 <html>
   <head>
     <script>
-  $("#a").addClass("animated fadeOut")
-  </script>
+      $("#a").addClass("animated fadeOut")
+    </script>
   </head>
   
  <body style="background-color:red;">
