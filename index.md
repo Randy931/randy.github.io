@@ -2,7 +2,11 @@
 <html>
   <head>
     <script>
-      $("#a").addClass("animated fadeOut")
+      $(document).ready(function() {
+    
+$("#a").addClass("animated fadeOut")
+  });
+      
     </script>
   </head>
   
